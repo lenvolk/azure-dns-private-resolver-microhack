@@ -9,3 +9,6 @@ Disconnect-AzAccount
 terraform init
 terraform plan 
 terraform apply -auto-approve
+
+###
+adminuser / V.....@
